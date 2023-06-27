@@ -17,7 +17,7 @@ const yuxrr = {
             js: ["Vue", "React", "Angular"],
             css: ["bootstrap", "sass"]
         },
-        backEnd: ["Java", "PHP"],
+        backEnd: ["Java", "..Py"],
         databases: ["MySql", "oracle"],
     }
 };
