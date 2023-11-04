@@ -6,7 +6,7 @@
 
 Hi there, thanks for stopping by, this is the  Speaking.
 
-<img align='right' src="https://giffiles.alphacoders.com/126/1267.gif" width="230">
+<img align='right' src="[https://giffiles.alphacoders.com/126/1267.gif](https://cdn.discordapp.com/attachments/1143618224164970516/1170188443582734366/8ec5250af4bd070ad53cb3e8b32cf29f.gif?ex=655821ea&is=6545acea&hm=4db58cc8b49266ca3d77f863fc4686d0fd77d2e9236ffc7d1fd42f7d08e159d9&)" width="230">
 
 ```javascript
 const yuxrr = {
