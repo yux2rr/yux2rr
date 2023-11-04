@@ -6,12 +6,11 @@
 
 Hi there, thanks for stopping by, this is the  Speaking.
 
-<img align='right' src=" " width="230">
 
 ```javascript
 const yuxrr = {
     pronouns: "Your grace" | "My Lord",
-    askMeAbout: ["destroyed", "Dolor", "Ven0m"],
+    askMeAbout: ["destroyed", "Dolor", "SE"],
     technologies: {
         frontEnd: {
             js: ["Vue", "React", "Angular"],
